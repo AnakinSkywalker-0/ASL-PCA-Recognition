@@ -1,0 +1,12 @@
+# Ignore the dataset and models
+word_dataset/
+hand_landmarker.task
+pca_model.npz
+gestures.csv
+
+# Ignore generated plots
+*.png
+
+# Ignore Python cache
+__pycache__/
+*.pyc
