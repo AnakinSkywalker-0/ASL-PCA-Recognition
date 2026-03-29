@@ -64,6 +64,8 @@ Run the provided `reorganize_data.py` script. This script performs the following
 ```bash
 python reorganize_data.py
 ```
+OR 
+Simply just Download the the given word_dataset.zip
 
 
 ### Why this matters for the PCA Model
